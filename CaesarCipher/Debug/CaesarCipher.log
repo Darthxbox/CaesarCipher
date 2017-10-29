@@ -1,0 +1,5 @@
+﻿  CaesarCipher.cpp
+c:\users\stephan\documents\visual studio 2017\projects\caesarcipher\caesarcipher\caesarcipher.cpp(22): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\stephan\documents\visual studio 2017\projects\caesarcipher\caesarcipher\caesarcipher.cpp(41): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  CaesarCipher.vcxproj -> c:\users\stephan\documents\visual studio 2017\Projects\CaesarCipher\Debug\CaesarCipher.exe
+  CaesarCipher.vcxproj -> c:\users\stephan\documents\visual studio 2017\Projects\CaesarCipher\Debug\CaesarCipher.pdb (Partial PDB)
